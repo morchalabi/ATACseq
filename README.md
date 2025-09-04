@@ -1,4 +1,4 @@
-# ATACseq prpject
+# ATACseq project
 
 The result of peak calling can be seen on GB: https://genome.ucsc.edu/s/mor.chalabi%40gmail.com/ATACseq_IzarLab
 
