@@ -1,0 +1,3 @@
+SampleID,Factor,Replicate,bamReads,ControlID,bamControl,Peaks,PeakCaller,Tissue,Condition,Treatment
+A03,ATACseq,1,/nfsdata/Morteza/projects/Ben_ATACseq/data/fastq/A03_001_cutadapt_sorted_filtered.bam,NA,NA,/nfsdata/Morteza/projects/Ben_ATACseq/data/fastq/MACS/A03_peaks.narrowPeak,narrow,NA,CD28-negative,NA
+A04,ATACseq,1,/nfsdata/Morteza/projects/Ben_ATACseq/data/fastq/A04_001_cutadapt_sorted_filtered.bam,NA,NA,/nfsdata/Morteza/projects/Ben_ATACseq/data/fastq/MACS/A04_peaks.narrowPeak,narrow,NA,CD28-positive,NA
